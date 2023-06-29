@@ -4,6 +4,6 @@
 
 cat wildcard.txt
 ----------------
-tesla.com
+tesla.com\n
 walmart.com
 
